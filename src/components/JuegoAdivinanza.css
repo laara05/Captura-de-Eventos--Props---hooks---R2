@@ -1,0 +1,49 @@
+.juego-adivinanza {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.juego-adivinanza h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.juego-adivinanza p {
+    font-size: 1.2rem;
+}
+
+.juego-adivinanza input {
+    padding: 10px;
+    font-size: 1rem;
+    margin-right: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.juego-adivinanza button {
+    padding: 10px 15px;
+    font-size: 1rem;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.juego-adivinanza button:hover {
+    background-color: #218838;
+}
+
+.mensaje {
+    font-size: 1.2rem;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.mensaje {
+    color: #007bff;
+}
+
+.mensaje.error {
+    color: red;
+}
